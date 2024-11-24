@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GeoQuiz_2024</string>
+    <string name="texte_question" />
+
+    <!--Bouton-->
+    <string name="bouton_vrai">Vrai</string>
+    <string name="bouton_faux">Faux</string>
+    <string name="bouton_suivant">suivant</string>
+    <string name="bouton_triche">TRICHE</string>
+
+    <!--Reaction-->
+    <string name="toast_correct">Correct !</string>
+    <string name="toast_incorrect">Incorrect !</string>
+
+    <!--Liste des questions-->
+    <string name="question_1">L\'océan Pacifique est plus grand que l\'océan Atlantique.</string>
+    <string name="question_2">Le canal de Suez relie la Mer Rouge et l\'océan Indien.</string>
+    <string name="question_3">La source du Nile est en Egypte.</string>
+    <string name="question_4">L\'Amazone est la rivière la plus longue d\'Amèrique du Sud.</string>
+    <string name="question_5">Le lac Baikal est le lac d\'eau douce le plus ancien et le plus profond.</string>
+
+    <!--Creer nouvelle activité-->
+    <string name="txt_attention">Êtes vous sur de vouloir faire ça ?</string>
+    <string name="btn_afiche_aide">Afficher réponse</string>
+
+    <string name="toast_triche">Faut pas tricher !</string>
+    <string name="txt_réponse">Réponse</string>
+</resources>
